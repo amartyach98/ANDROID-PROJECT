@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckWeather</string>
+    <string name="Header">Get Weather</string>
+    <string name="Location"></string>
+    <string name="Button">Get Details</string>
+    <string name="loading">Loading..</string>
+    <string name="hint"></string>
+</resources>
